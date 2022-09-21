@@ -27,4 +27,12 @@ They're an explanation for a piece of code that can be an application, a game, o
 
 
 
+They are a text file located in the project's folder.
 A good README should be to the point, clear, and complete!
+
+
+### What exactly is in a README?
+
+
+
+
