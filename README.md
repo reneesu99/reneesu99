@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @reneesu99
-- 👀 I’m interested in sustainability, green tech, and healthcare!
+- 👀 I’m interested in sustainability, immigrant experiences, and accessibility for the elderly!
 - I'm currently working on a healthcare insurance project (doctors.fyi) and a sustainablility asset manager.
 - I'm based in sunny Los Angeles!
 <!---
